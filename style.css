@@ -55,7 +55,7 @@ nav ul li:not(:last-child) {
 }
 
 .hero {
-    background-image: url(/images/img-mission-background.jpg);
+    background-image: url(./images/img-mission-background.jpg);
     background-repeat: no-repeat;
     background-size: auto;
     background-position: center;
@@ -133,7 +133,7 @@ nav ul li:not(:last-child) {
     margin: 0 auto;
     position: relative;
     top: 15rem;
-    background-image: url(/images/img-locations-background.jpg);
+    background-image: url(./images/img-locations-background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
